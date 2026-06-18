@@ -55,7 +55,9 @@
 
 📫 Contato
 
-💼 LinkedIn: Leonardo Correa Muneratti 
+[![Instagram](https://img.shields.io/badge/Instagram-@leo.muneratti-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo.muneratti?igsh=ajU1MWV3Mmhvc2Y3)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Correa%20Muneratti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-correa-muneratti-00a7a0321?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 📧 E-mail: Leonardo.c.muneratti@gmail.com
 
